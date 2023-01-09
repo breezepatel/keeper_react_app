@@ -15,7 +15,7 @@ Prerequisites
 Installation
 
 Clone the repository
-Copy code: [git clone https://github.com/[username]/google-notes-web-app.git](https://github.com/breezepatel/keeper_react_app.git)
+Copy code: https://github.com/breezepatel/keeper_react_app.git
 
 Navigate to the project directory
 Copy code: cd my-app
